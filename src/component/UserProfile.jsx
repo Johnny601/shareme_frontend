@@ -64,7 +64,7 @@ const UserProfile = () => {
           <div className="flex flex-col justify-center items-center">
             <img
               className=" w-full h-370 2xl:h-510 shadow-lg object-cover"
-              src="https://source.unsplash.com/1600x900/?nature,photography,technology"
+              src="https://picsum.photos/1600/900"
               alt="user-pic"
             />
             <img

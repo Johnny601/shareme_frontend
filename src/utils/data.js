@@ -1,7 +1,8 @@
 export const categories = [
   {
     name: "anime",
-    image: "",
+    image:
+      "https://i2.hdslb.com/bfs/face/9545c525e3e1070deb0c3502929bce89f6c5172d.jpg@240w_240h_1c_1s_!web-avatar-space-header.avif",
   },
   {
     name: "cars",
